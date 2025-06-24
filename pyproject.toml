@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "elasticsearch==8.13.0",
+    "fastembed>=0.7.1",
     "groq>=0.26.0",
     "ipywidgets>=8.1.7",
     "minsearch>=0.0.2",
